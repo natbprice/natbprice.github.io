@@ -376,10 +376,19 @@ if porridge == &amp;quot;blueberry&amp;quot;:
     
     <item>
       <title>radsets</title>
-      <link>/project/external-project/</link>
+      <link>/project/radsets/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/external-project/</guid>
+      <guid>/project/radsets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tvdiff</title>
+      <link>/project/tvdiff/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/tvdiff/</guid>
       <description></description>
     </item>
     
