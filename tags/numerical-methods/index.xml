@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Numerical Methods on Nat Price</title>
-    <link>/tags/numerical-methods/</link>
+    <link>https://natbprice.github.io/tags/numerical-methods/</link>
     <description>Recent content in Numerical Methods on Nat Price</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/numerical-methods/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://natbprice.github.io/tags/numerical-methods/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>tvdiff</title>
-      <link>/project/tvdiff/</link>
+      <link>https://natbprice.github.io/project/tvdiff/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/tvdiff/</guid>
+      <guid>https://natbprice.github.io/project/tvdiff/</guid>
       <description></description>
     </item>
     
