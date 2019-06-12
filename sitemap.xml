@@ -45,13 +45,32 @@
   </url>
   
   <url>
-    <loc>https://natbprice.github.io/publication/preprint/</loc>
+    <loc>https://natbprice.github.io/tags/aerospace-engineering/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://natbprice.github.io/authors/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://natbprice.github.io/authors/mathieu-balesdent/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://natbprice.github.io/authors/nam-ho-kim/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://natbprice.github.io/tags/optimization/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -67,7 +86,24 @@
   </url>
   
   <url>
-    <loc>https://natbprice.github.io/tags/source-themes/</loc>
+    <loc>https://natbprice.github.io/authors/raphael-t.-haftka/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://natbprice.github.io/authors/rodolphe-le-riche/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://natbprice.github.io/publication/price-safety-margin-based-2019/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://natbprice.github.io/authors/s%C3%A9bastien-defoort/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -145,7 +181,7 @@
   </url>
   
   <url>
-    <loc>https://natbprice.github.io/publication/book-section/</loc>
+    <loc>https://natbprice.github.io/publication/balesdent-advanced-2016/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -156,61 +192,8 @@
   </url>
   
   <url>
-    <loc>https://natbprice.github.io/authors/mathieu-balesdent/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://natbprice.github.io/authors/nam-ho-kim/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://natbprice.github.io/authors/nathaniel-b.-price/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://natbprice.github.io/authors/nicolas-b%C3%A9rend/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://natbprice.github.io/authors/raphael-t.-haftka/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://natbprice.github.io/authors/rodolphe-le-riche/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://natbprice.github.io/authors/s%C3%A9bastien-defoort/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://natbprice.github.io/publication_types/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://natbprice.github.io/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://natbprice.github.io/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
