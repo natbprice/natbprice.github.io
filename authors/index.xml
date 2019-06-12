@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Nat Price</title>
-    <link>https://natbprice.github.io/authors/</link>
+    <link>/authors/</link>
     <description>Recent content in Authors on Nat Price</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://natbprice.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://natbprice.github.io/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://natbprice.github.io/authors/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I enjoy solving challenging problems using data visualization, statistical analysis, machine learning, optimization, and simulation. I have an interdisciplinary background and have worked worked in aerospace, biomedical, and natural resource fields. In my current role, I am building a web-based application and statistical models for customer-base analysis and collaborating on developing model-free methods for identifying change points in high-dimensional, noisy, time-series data.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Robert Ford</title>
-      <link>https://natbprice.github.io/authors/robert-ford/</link>
+      <link>/authors/robert-ford/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://natbprice.github.io/authors/robert-ford/</guid>
+      <guid>/authors/robert-ford/</guid>
       <description></description>
     </item>
     
