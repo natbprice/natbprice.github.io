@@ -2,103 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Nat Price</title>
-    <link>/authors/</link>
+    <link>https://natbprice.github.io/authors/</link>
     <description>Recent content in Authors on Nat Price</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://natbprice.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://natbprice.github.io/authors/admin/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/authors/admin/</guid>
+      <guid>https://natbprice.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I enjoy solving challenging problems using data visualization, statistical analysis, machine learning, optimization, and simulation. I have an interdisciplinary background and have worked worked in aerospace, biomedical, and natural resource fields. In my current role, I am building a web-based application and statistical models for customer-base analysis and collaborating on developing model-free methods for identifying change points in high-dimensional, noisy, time-series data.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Loïc Brevault</title>
-      <link>/authors/lo%C3%AFc-brevault/</link>
+      <link>https://natbprice.github.io/authors/lo%C3%AFc-brevault/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/authors/lo%C3%AFc-brevault/</guid>
+      <guid>https://natbprice.github.io/authors/lo%C3%AFc-brevault/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mathieu Balesdent</title>
-      <link>/authors/mathieu-balesdent/</link>
+      <link>https://natbprice.github.io/authors/mathieu-balesdent/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/authors/mathieu-balesdent/</guid>
+      <guid>https://natbprice.github.io/authors/mathieu-balesdent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nam-Ho Kim</title>
-      <link>/authors/nam-ho-kim/</link>
+      <link>https://natbprice.github.io/authors/nam-ho-kim/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/authors/nam-ho-kim/</guid>
+      <guid>https://natbprice.github.io/authors/nam-ho-kim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nathaniel B. Price</title>
-      <link>/authors/nathaniel-b.-price/</link>
+      <link>https://natbprice.github.io/authors/nathaniel-b.-price/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/authors/nathaniel-b.-price/</guid>
+      <guid>https://natbprice.github.io/authors/nathaniel-b.-price/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nicolas Bérend</title>
-      <link>/authors/nicolas-b%C3%A9rend/</link>
+      <link>https://natbprice.github.io/authors/nicolas-b%C3%A9rend/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/authors/nicolas-b%C3%A9rend/</guid>
+      <guid>https://natbprice.github.io/authors/nicolas-b%C3%A9rend/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Raphael T. Haftka</title>
-      <link>/authors/raphael-t.-haftka/</link>
+      <link>https://natbprice.github.io/authors/raphael-t.-haftka/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/authors/raphael-t.-haftka/</guid>
+      <guid>https://natbprice.github.io/authors/raphael-t.-haftka/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rodolphe Le Riche</title>
-      <link>/authors/rodolphe-le-riche/</link>
+      <link>https://natbprice.github.io/authors/rodolphe-le-riche/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/authors/rodolphe-le-riche/</guid>
+      <guid>https://natbprice.github.io/authors/rodolphe-le-riche/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sébastien Defoort</title>
-      <link>/authors/s%C3%A9bastien-defoort/</link>
+      <link>https://natbprice.github.io/authors/s%C3%A9bastien-defoort/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/authors/s%C3%A9bastien-defoort/</guid>
+      <guid>https://natbprice.github.io/authors/s%C3%A9bastien-defoort/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
+      <link>https://natbprice.github.io/authors/robert-ford/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/authors/robert-ford/</guid>
+      <guid>https://natbprice.github.io/authors/robert-ford/</guid>
       <description></description>
     </item>
     
