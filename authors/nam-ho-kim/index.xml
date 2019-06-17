@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nam-Ho Kim on Nat Price</title>
-    <link>https://natbprice.github.io/authors/nam-ho-kim/</link>
+    <link>/authors/nam-ho-kim/</link>
     <description>Recent content in Nam-Ho Kim on Nat Price</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://natbprice.github.io/authors/nam-ho-kim/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/nam-ho-kim/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Safety-margin-based design and redesign considering mixed epistemic model uncertainty and aleatory parameter uncertainty</title>
-      <link>https://natbprice.github.io/publication/price-safety-margin-based-2019/</link>
+      <link>/publication/price-safety-margin-based-2019/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://natbprice.github.io/publication/price-safety-margin-based-2019/</guid>
+      <guid>/publication/price-safety-margin-based-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advanced Space Vehicle Design Taking into Account Multidisciplinary Couplings and Mixed Epistemic/Aleatory Uncertainties</title>
-      <link>https://natbprice.github.io/publication/balesdent-advanced-2016/</link>
+      <link>/publication/balesdent-advanced-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://natbprice.github.io/publication/balesdent-advanced-2016/</guid>
+      <guid>/publication/balesdent-advanced-2016/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 on Nat Price</title>
-    <link>https://natbprice.github.io/publication_types/3/</link>
+    <link>/publication_types/3/</link>
     <description>Recent content in 3 on Nat Price</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://natbprice.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Safety-margin-based design and redesign considering mixed epistemic model uncertainty and aleatory parameter uncertainty</title>
-      <link>https://natbprice.github.io/publication/price-safety-margin-based-2019/</link>
+      <link>/publication/price-safety-margin-based-2019/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://natbprice.github.io/publication/price-safety-margin-based-2019/</guid>
+      <guid>/publication/price-safety-margin-based-2019/</guid>
       <description></description>
     </item>
     
