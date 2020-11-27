@@ -35,7 +35,77 @@
   
   <url>
     <loc>https://natbprice.github.io/authors/admin/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://natbprice.github.io/publication_types/2/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://natbprice.github.io/publication/price_open-sourced_2020/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://natbprice.github.io/authors/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://natbprice.github.io/authors/christopher-chizinski/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://natbprice.github.io/authors/jeff-rawlinson/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://natbprice.github.io/authors/joseph-fontaine/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://natbprice.github.io/authors/kevin-pope/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://natbprice.github.io/authors/micaela-rahe/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://natbprice.github.io/publication_types/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://natbprice.github.io/publication/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://natbprice.github.io/tags/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://natbprice.github.io/tags/web-based-application/</loc>
+    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -47,12 +117,6 @@
   <url>
     <loc>https://natbprice.github.io/tags/aerospace-engineering/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://natbprice.github.io/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -75,17 +139,6 @@
   </url>
   
   <url>
-    <loc>https://natbprice.github.io/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://natbprice.github.io/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://natbprice.github.io/authors/raphael-t.-haftka/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -105,12 +158,6 @@
   <url>
     <loc>https://natbprice.github.io/authors/s%C3%A9bastien-defoort/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://natbprice.github.io/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
